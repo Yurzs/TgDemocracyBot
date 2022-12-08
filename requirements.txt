@@ -5,7 +5,7 @@ async-timeout==3.0.1
 asyncpg==0.21.0
 attrs==19.1.0
 Babel==2.9.1
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 gino==0.8.2
 idna==2.8
